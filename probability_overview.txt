@@ -1,0 +1,30 @@
+Probability is the possibilty of getting a result
+*For example using a coin that has heads and tails
+
+#what is the possibility of getting Heads
+-> P(H) = ?
+-> How many heads do we have on a coin? Just one.
+
+and how many sides of a coin do we have? 2
+
+Answer: 1/2 = 50%
+
+
+      #Next example, let's say we have a die(single of a dice) which has 6 sides
+	and a die has 6 sides, with 1-6, 
+	what is the probability of rolling a 1
+	P(1) = 1/6 = because on a die we have 1,2,3,4,5,6, we then pick 1 over the number of sides
+	
+     #Whats the probability of getting a (1 OR 6)
+     P(1 || 6) = 2/6 = 1/3 .....because we are reffering to two cases here, that's why it's 2/6sides
+
+     #What about the probability of getting (2 AND 3)
+     P(2 && 3) = now is it possible to roll a die? and see 2 sides display to you at once?
+    Answer = 0/6
+
+    #Find the probability of picking a yellow marble from a bag of 3 yellow, 2 red, 2 green and 1 blue
+    P(picking a yellow marble) = 3/ 3+2+2+1 = 3/8 where 3 is the number of yellow
+    
+    P(picking a yellow || green) = 3 + 2 = 5/8
+
+#done. 
